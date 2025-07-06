@@ -1,0 +1,72 @@
+/* Fundo da página */
+body {
+    background-color: #cbe0f5;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Título <h1> */
+h1 {
+    color: #456c92;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Parágrafo <p> */
+p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Lista <ul> */
+ul li {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+/* Imagem <img> */
+img {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+/* Tabela <table> */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid #333;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #dcdcdc;
+    color: #000;
+}
+
+td img {
+    border-radius: 8px;
+}
+
+/* Link <a> */
+a {
+    color: #2980b9;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #e74c3c;
+    text-decoration: underline;
+}
+
+
